@@ -34,5 +34,5 @@ python test-SpaLSTF.py
 The datasets 1-12 in the experiment were all from the paper [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type](https://www.nature.com/articles/s41592-022-01480-9). The raw data were initially processed in 'process/data_process.py' to convert the txt file to h5ad, and only the genes shared by both ST and scRNA-seq were retained. \
 
 The all datasets are available for download at:
-https://www.spatialresearch.org/resources-published-datasets/doi-10-1126science-aaf2403/
+[https://www.spatialresearch.org/resources-published-datasets/doi-10-1126science-aaf2403/](https://github.com/nathanyl/SpaLSTF/tree/main/datasets)
  
