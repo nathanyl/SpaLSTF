@@ -1,8 +1,8 @@
 # SpaLSTF
 SpaLSTF
 
-if gene num < 512, batchsize = 2048, hiddensize = 512; \
-if gene num > 512 and num < 1024, batchsize = 512, hiddensize = 1024.
+if gene num < 500, batchsize = 2048, hiddensize = 512; \
+if gene num > 500, batchsize = 512, hiddensize = 1024.
 
 # Requirements
 - python = 3.9.19
